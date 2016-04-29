@@ -7,7 +7,7 @@ namespace NancyOwinPOC
 	{
 		public IndexModule ()
 		{
-			Get [""] = _ => "WololoooOoOOooOoOOo!!! HayoOoOoo!";
+			Get [""] = _ => "WololoooOoOOooOoOOo!!! HayoOoOoo! (From the Windows (Nancy) Playground)";
 		}
 	}
 }
