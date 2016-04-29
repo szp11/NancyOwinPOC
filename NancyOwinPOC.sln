@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NancyOwinPOC", "NancyOwinPOC\NancyOwinPOC.csproj", "{6CDCD7DE-D581-492C-89EE-E0DA3A30B188}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NancyOwinPOC.Models", "NancyOwinPOC.Models\NancyOwinPOC.Models.csproj", "{F00E1A3E-E9B8-4FF0-B024-D70D57F23845}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,5 +15,9 @@ Global
 		{6CDCD7DE-D581-492C-89EE-E0DA3A30B188}.Debug|x86.Build.0 = Debug|x86
 		{6CDCD7DE-D581-492C-89EE-E0DA3A30B188}.Release|x86.ActiveCfg = Release|x86
 		{6CDCD7DE-D581-492C-89EE-E0DA3A30B188}.Release|x86.Build.0 = Release|x86
+		{F00E1A3E-E9B8-4FF0-B024-D70D57F23845}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F00E1A3E-E9B8-4FF0-B024-D70D57F23845}.Debug|x86.Build.0 = Debug|Any CPU
+		{F00E1A3E-E9B8-4FF0-B024-D70D57F23845}.Release|x86.ActiveCfg = Release|Any CPU
+		{F00E1A3E-E9B8-4FF0-B024-D70D57F23845}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
