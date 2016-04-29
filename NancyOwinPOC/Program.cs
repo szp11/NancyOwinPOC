@@ -23,7 +23,8 @@ namespace NancyOwinPOC
 					x.SetDisplayName("Nancy Owin/OAuth Self-hosted Service"); 
 					x.SetServiceName("Nancy-Owin-SelfHost"); 
 					x.EnableShutdown();
-				}); 
+				});
+            Console.ReadLine();
 		}
 	}
 }
