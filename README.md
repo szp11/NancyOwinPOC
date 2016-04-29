@@ -20,3 +20,4 @@ This project is a Proof-of-concept of a C# multi-platform lightweight webservice
  - Ambas as aplicações (API e MVC) devem compartilhar as mesmas regras de negócio (both apps (API and MVC) MUST share the same business rules);
  - Futura extensão para SSO (Single Sign-On) (Future SSO extention);
 
+Este projeto foi baseado no artigo http://bytefish.de/blog/token_authentication_owin_nancy/#implementing-the-oauthauthorizationserverprovider
